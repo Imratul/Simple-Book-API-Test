@@ -66,3 +66,5 @@ Simple API.postman_collection.json → Postman collection containing all API req
  -  Validate status codes (e.g., expect 200 OK).
  -  Verify JSON responses (e.g., check for status: OK).
  -  Ensure correct error handling (e.g., failed orders return expected messages).
+## Newmen Summary Report
+![Alt Text](NewmenReport.png)
